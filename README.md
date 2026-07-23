@@ -4,3 +4,4 @@ Esse repositório foi criado para apresentação do seminário de tema Técnicas
 - José Victor Cruz Rebouças
 - Caua Tavares Nunes
 - Arthur Alencar Lopes Trindade
+ 
